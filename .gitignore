@@ -1,0 +1,9 @@
+node_modules/
+worker/
+.cargo-ok
+package-lock.json
+worker.js
+dist/
+.eslintcache
+wrangler.toml
+.env
